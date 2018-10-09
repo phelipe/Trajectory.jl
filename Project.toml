@@ -1,0 +1,12 @@
+name = "Trajectory"
+uuid = "3951a86c-04ec-5dcd-9551-c3345ec7ad40"
+authors = ["Phelipe Wesley <phelipewesleydeoliveira@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

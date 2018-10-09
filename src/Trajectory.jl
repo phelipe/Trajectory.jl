@@ -1,0 +1,3 @@
+module Trajectory
+
+end # module
